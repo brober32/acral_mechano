@@ -6,3 +6,6 @@ Before starting:
 -Cell Profiler must be installed
   -Install available here: https://cellprofiler.org/releases
 -If analyzing multiple images at once is desired, each image must be saved as an individual tiff 
+
+1. Running CellProfiler
+-
