@@ -5,7 +5,10 @@ Before starting:
 -Microscopy images must be taken at 10X magnification
 -Cell Profiler must be installed
   -Install available here: https://cellprofiler.org/releases
+-Matlab must be installed
 -If analyzing multiple images at once is desired, each image must be saved as an individual tiff 
 
-1. Running CellProfiler
--
+Running Analysis
+1. Run Stiffness_Pipeline.cpproj
+2. Run QC_Images.m
+3. Run Stiffness_Datasort.m
