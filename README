@@ -1,0 +1,8 @@
+The following are instructions for how to analyze microscopy images of 2D cell cultures constitutively expressing GFP as seen in publication XXXX for fold change and cell morphology
+
+Before starting:
+-Cells of interest MUST have a fluorescent marker expressed throughout the entire cell
+-Microscopy images must be taken at 10X magnification
+-Cell Profiler must be installed
+  -Install available here: https://cellprofiler.org/releases
+-If analyzing multiple images at once is desired, each image must be saved as an individual tiff 
